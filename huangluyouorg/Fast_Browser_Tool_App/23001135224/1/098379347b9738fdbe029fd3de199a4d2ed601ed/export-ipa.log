@@ -1,0 +1,4 @@
+2026-03-12 12:08:15.166 xcodebuild[3618:15097] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/t5/f77_gwnj6p95qxy9py3fckx00000gn/T/FastBrowserToolApp_2026-03-12_12-08-15.164.xcdistributionlogs".
+Exported FastBrowserToolApp to: /Users/runner/work/Fast_Browser_Tool_App/Fast_Browser_Tool_App/FastBrowserToolApp.ipa
+** EXPORT SUCCEEDED **
+
