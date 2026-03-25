@@ -1,0 +1,4 @@
+2026-03-25 05:51:24.287 xcodebuild[19581:59433] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/t5/f77_gwnj6p95qxy9py3fckx00000gn/T/AlarmScheduler_2026-03-25_05-51-24.285.xcdistributionlogs".
+Exported AlarmScheduler to: /Users/runner/work/Alarm_Scheduler/Alarm_Scheduler/AlarmScheduler.ipa
+** EXPORT SUCCEEDED **
+
